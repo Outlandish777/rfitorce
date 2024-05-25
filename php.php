@@ -1,1 +1,1 @@
-$hostname = gethostname();
+print exec('hostname');
